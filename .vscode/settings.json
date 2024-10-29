@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/4f86f056-1c6e-4ce2-8014-f9992a9bd57c/resourceGroups/orgl-vendor-rg/providers/Microsoft.Web/sites/orgill-bg-removal",
+    "appService.deploySubpath": "."
+}
